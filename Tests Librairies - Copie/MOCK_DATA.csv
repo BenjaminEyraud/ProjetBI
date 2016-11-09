@@ -1,0 +1,1001 @@
+idVente,Produit,Date,Magasin,Montant,Quantitee
+1,Cardify,20.01.2016,Golcowa,962.8,14
+2,Keylex,04.09.2016,Palocabildo,673.8,14
+3,Transcof,27.07.2015,Manizales,675.7,47
+4,Viva,12.04.2009,Mullsjö,420.9,25
+5,Tres-Zap,05.09.2007,Gentilly,514.6,34
+6,Y-Solowarm,23.11.2014,Ganfang,198.2,11
+7,Transcof,20.07.2009,Chrysoúpolis,584.1,22
+8,Mat Lam Tam,27.01.2006,Phatthalung,92.4,11
+9,Konklab,11.01.2009,Klimavichy,740.2,1
+10,Lotstring,20.09.2014,Tílisos,223.2,1
+11,Sonair,06.07.2007,Kamionka Strumitowa,715.1,45
+12,Pannier,11.07.2011,Mramani,869.9,25
+13,Duobam,08.06.2013,Partesh,721.3,38
+14,Gembucket,25.07.2006,Huipinggeng,378.6,32
+15,Fixflex,05.05.2007,Sanjō,623.6,36
+16,Regrant,30.11.2016,Rongelap,290.4,31
+17,Hatity,23.09.2006,Vladimir,525.3,24
+18,Keylex,17.12.2007,Chincha Baja,679.9,30
+19,Konklux,06.04.2013,Kuta,891.6,41
+20,Zoolab,01.03.2011,Azua,583.8,21
+21,Bamity,07.11.2009,Cieurih Satu,784.5,15
+22,Trippledex,26.03.2006,Altona,47.6,40
+23,Opela,20.06.2010,Nantes,176.3,14
+24,Kanlam,12.11.2007,An Naşşārīyah,417.0,11
+25,It,20.02.2005,Hadžići,930.1,2
+26,Transcof,16.07.2015,Dorotea,717.3,27
+27,Otcom,21.11.2012,Citeguh,563.8,39
+28,Duobam,02.04.2012,Valenciennes,605.8,17
+29,Quo Lux,28.12.2006,Ikaalinen,450.3,33
+30,Veribet,16.02.2012,Hino,280.3,44
+31,It,31.05.2007,Andres Bonifacio,790.8,2
+32,Bamity,13.06.2015,Tpig,502.2,33
+33,Opela,04.08.2010,Batas Barat,303.5,14
+34,Alpha,14.11.2008,Gornyy,267.9,49
+35,Voyatouch,11.11.2008,Skalbmierz,982.4,12
+36,Tresom,06.05.2008,Manukau City,323.9,4
+37,Tres-Zap,06.11.2013,Hwaseong-si,76.5,44
+38,Redhold,02.12.2015,Tarata,485.4,31
+39,Keylex,05.09.2011,Kinsale,221.0,42
+40,Stringtough,23.09.2009,Tournon-sur-Rhône,790.4,42
+41,Subin,26.05.2013,Baranovichi,282.5,12
+42,Duobam,13.04.2011,Baoyou,179.8,47
+43,Cardify,17.06.2007,Pag,899.9,19
+44,Flowdesk,10.07.2014,Ningyuan,477.7,44
+45,Span,22.07.2010,Stobreč,445.6,16
+46,Tin,05.05.2011,Ágio Pnévma,513.0,47
+47,Fix San,26.06.2012,Wucheng,178.1,25
+48,Bitchip,05.03.2009,Pingle,74.3,29
+49,Span,09.03.2016,Pytalovo,872.9,31
+50,Namfix,31.08.2007,Santiago dos Velhos,150.7,20
+51,Bamity,19.08.2010,Sosnovoborsk,44.8,5
+52,Zathin,05.01.2009,Brades,935.0,22
+53,Konklab,02.07.2012,Mogadishu,816.4,46
+54,Andalax,23.01.2010,Medenychi,343.0,7
+55,Job,03.08.2013,Sieniawa,650.6,18
+56,Zoolab,13.08.2016,Druju,876.9,25
+57,Wrapsafe,18.11.2015,Feicheng,937.3,35
+58,Sonair,10.08.2008,Zürich,564.6,32
+59,Domainer,11.01.2012,Agnibilékrou,927.1,36
+60,Konklux,17.01.2016,Suqin Huimin,423.1,44
+61,Hatity,03.07.2005,Salgar,596.7,37
+62,Stronghold,25.03.2010,Luba,256.6,12
+63,Flexidy,11.04.2011,Phitsanulok,17.4,3
+64,Viva,22.04.2014,Pau,505.3,4
+65,Ronstring,07.12.2012,Konstancin-Jeziorna,314.0,32
+66,Flexidy,29.01.2007,Ma‘dān,289.8,19
+67,Y-Solowarm,18.08.2007,Dawan,60.8,33
+68,Bigtax,17.10.2011,Jining,419.5,31
+69,Sub-Ex,11.09.2006,Cegłów,75.3,25
+70,Tres-Zap,10.07.2012,Emiliano Zapata,272.2,48
+71,Biodex,01.11.2012,Muyudian,276.0,5
+72,Fintone,01.02.2013,Taipingxu,711.4,49
+73,Ventosanzap,20.05.2005,Koronganayam,154.5,34
+74,Tres-Zap,01.08.2012,Jiyizhuang,223.0,49
+75,Stringtough,25.11.2011,Bribir,361.6,15
+76,Zaam-Dox,19.08.2011,Bình Thủy,582.7,14
+77,Rank,08.01.2016,Wąsosz,544.0,43
+78,Redhold,12.03.2010,Cadagmayan Norte,295.0,13
+79,Stim,01.05.2008,Chengnan,585.8,38
+80,Bigtax,16.06.2005,Bayḩān,589.1,8
+81,Zoolab,23.05.2006,Atlanta,375.1,33
+82,Toughjoyfax,23.05.2005,Bizerte,161.0,38
+83,Transcof,19.07.2016,Pinhais,478.0,18
+84,Flexidy,22.12.2012,Carpina,677.5,36
+85,Span,18.02.2007,Saijō,757.0,10
+86,Opela,01.03.2013,Elato,321.6,25
+87,Tampflex,24.10.2007,Talisay,921.4,13
+88,Zontrax,23.04.2008,Itaguaçu,734.4,14
+89,Y-Solowarm,08.07.2012,Rolândia,605.8,19
+90,Kanlam,29.08.2007,Adelaide Mail Centre,820.0,19
+91,Keylex,23.09.2005,Mundão,597.7,20
+92,Transcof,23.02.2011,Charat,216.1,4
+93,Sonsing,18.06.2010,Zeerust,875.0,44
+94,Gembucket,27.09.2016,Caojia,320.1,50
+95,Y-find,16.02.2015,Hewa,174.9,33
+96,Tempsoft,17.09.2015,Changmaoling,907.6,45
+97,Toughjoyfax,10.07.2010,Ganhe,774.7,39
+98,Alphazap,11.09.2012,Wang Thonglang,453.3,49
+99,Sonair,18.01.2013,Alpatovo,309.5,12
+100,Tresom,11.01.2016,La Guata,235.5,38
+101,Namfix,20.01.2006,Parada de Pinhão,418.6,7
+102,Vagram,09.03.2016,Sanlanbahai,498.4,33
+103,Span,04.09.2012,Malekān,359.2,44
+104,Asoka,27.07.2008,Ambulong,211.0,30
+105,Quo Lux,25.12.2015,Vila de Rei,536.1,48
+106,Sonair,12.07.2005,Kańczuga,159.4,39
+107,Pannier,27.04.2015,Chengnan,942.5,8
+108,Y-find,21.03.2007,Győr,667.3,10
+109,Rank,08.09.2011,Jianzhatan,196.1,14
+110,Holdlamis,26.04.2012,Baran,935.3,10
+111,Home Ing,20.12.2015,Caibarién,527.6,1
+112,Tempsoft,05.10.2013,Montpellier,772.1,44
+113,Duobam,04.02.2016,Port-Gentil,59.7,22
+114,Bitchip,03.07.2011,‘Izrā,804.7,33
+115,Sonsing,24.05.2007,Créteil,482.2,33
+116,Duobam,13.04.2014,Stochov,370.8,48
+117,Rank,13.03.2016,Wudui,810.8,22
+118,Sonair,05.01.2007,Göteborg,137.1,14
+119,Otcom,12.05.2015,Blantyre,790.3,42
+120,Andalax,11.08.2009,Uherský Ostroh,685.0,1
+121,Keylex,02.08.2016,Xinjie,969.9,31
+122,Bitwolf,24.01.2012,Francisco I Madero,627.1,24
+123,Quo Lux,18.02.2012,Bigaan,363.8,33
+124,Flexidy,27.03.2015,Rengang,85.6,37
+125,Asoka,09.11.2005,Yaopi,686.1,21
+126,Konklab,08.03.2008,Alminhas,946.3,1
+127,Domainer,29.09.2016,Layo,737.8,44
+128,Namfix,18.02.2015,Krajan,233.6,20
+129,Lotstring,07.10.2013,Qishn,909.7,39
+130,Lotlux,09.05.2006,Täby,813.0,47
+131,Ventosanzap,14.12.2006,Fangtai,43.5,37
+132,Sonair,14.01.2013,Xidianzi,146.7,49
+133,Fintone,02.05.2006,Inriville,746.8,43
+134,Prodder,02.01.2010,Huayuan,655.1,16
+135,Stringtough,12.10.2011,Dimitrovgrad,169.0,26
+136,Home Ing,11.12.2016,Orléans,765.7,36
+137,Matsoft,02.09.2005,Zhoujiang,431.0,31
+138,Fix San,10.11.2006,Renfengzhuang,292.1,41
+139,Zamit,20.08.2006,Banjar Jagasatru,900.4,49
+140,Keylex,13.01.2007,Vaudreuil-Dorion,992.7,40
+141,Regrant,27.10.2009,Badian,962.9,32
+142,Konklab,02.12.2009,Gominhães,442.2,39
+143,Zontrax,11.08.2010,Zhangting,609.9,25
+144,Sonair,28.05.2008,Unquillo,460.5,29
+145,Overhold,26.06.2007,Crespo,660.8,47
+146,Zathin,30.12.2014,Manturovo,832.6,36
+147,Cardify,13.02.2013,Tunjuk Selatan,118.8,27
+148,Hatity,29.12.2011,Makamba,502.5,21
+149,Tresom,27.07.2015,Andovoranto,999.9,21
+150,Regrant,02.12.2010,Inđija,262.6,40
+151,Voltsillam,15.11.2011,Helong,990.2,17
+152,Zathin,25.02.2012,Bilicenii Vechi,329.6,49
+153,Tresom,26.07.2013,Usu,284.8,42
+154,Job,08.05.2014,Tartagal,430.0,46
+155,Lotlux,21.05.2015,Hanchang,12.8,22
+156,Veribet,25.01.2011,Dessalines,124.0,12
+157,Matsoft,20.06.2013,Xiushan,436.1,27
+158,Zaam-Dox,17.01.2006,Doropayung,487.2,2
+159,Tres-Zap,15.02.2007,Khomutovo,78.4,34
+160,Duobam,20.04.2008,Aíyira,655.5,9
+161,Tin,22.06.2015,Lianshan,619.8,47
+162,Tresom,05.10.2007,Szczerców,332.7,19
+163,Zaam-Dox,26.06.2013,Kosmonosy,889.5,9
+164,Flowdesk,28.10.2012,Hukou,101.5,3
+165,Bitwolf,02.04.2016,Mujães,2.2,36
+166,Y-find,16.02.2011,Zaoxi,547.9,4
+167,Alphazap,18.07.2016,Liucheng,678.0,6
+168,Zoolab,10.12.2011,Porsgrunn,686.2,23
+169,Redhold,07.03.2009,Juršinci,867.0,36
+170,Ventosanzap,01.12.2016,Staré Křečany,647.7,6
+171,Voltsillam,29.03.2011,Enschede,973.3,24
+172,Tempsoft,05.01.2016,Zhouxi,12.4,19
+173,Tampflex,13.11.2007,Bintang,508.2,47
+174,Bigtax,09.08.2009,Venezia,424.0,41
+175,Ventosanzap,25.07.2016,Kensington,412.9,38
+176,Konklab,05.12.2013,Daqiao,217.6,39
+177,Bitwolf,28.05.2005,Al Aḩmadī,53.3,14
+178,Tresom,04.08.2014,Karma,164.0,43
+179,Fix San,21.12.2016,Gandara,312.6,7
+180,Flowdesk,01.11.2012,Strömsnäsbruk,964.0,25
+181,Flexidy,28.04.2015,Krasnoznamensk,203.0,4
+182,Tin,07.07.2011,Andramasina,799.1,4
+183,Bitchip,11.12.2011,Mikhaylovsk,110.3,42
+184,Bigtax,12.06.2007,Skórzec,285.3,27
+185,Otcom,20.11.2006,Tver,365.9,17
+186,Bamity,08.07.2015,Tembisa,480.4,26
+187,Daltfresh,31.12.2007,Dubravica,111.5,43
+188,Pannier,07.01.2008,Rogoza,941.8,46
+189,Kanlam,18.06.2011,Concepción,615.7,17
+190,Bigtax,09.11.2009,Fangshan,535.0,4
+191,Cookley,01.07.2015,Puncakmanis,84.6,24
+192,Kanlam,04.03.2011,Pilníkov,465.7,24
+193,Tin,14.11.2014,Hīrna,128.9,21
+194,Daltfresh,03.07.2008,Staraya Ladoga,301.3,35
+195,Otcom,31.03.2007,Xiatang,158.0,1
+196,Fix San,14.04.2010,Vigan,561.3,49
+197,Home Ing,11.06.2016,Salaš Crnobarski,621.3,43
+198,Voltsillam,28.07.2014,Hongwei,675.7,11
+199,Tres-Zap,06.05.2008,Xinglongchang,470.0,38
+200,Vagram,25.02.2005,Zhaxi,408.9,11
+201,Transcof,07.09.2005,Toukh,216.9,20
+202,Trippledex,10.01.2016,Korem,365.8,13
+203,Viva,28.08.2013,Safonovo,511.4,33
+204,Fixflex,14.03.2011,Masaraway,201.4,30
+205,Gembucket,19.01.2007,Jinhe,938.8,24
+206,Y-Solowarm,29.04.2009,Phu Kradueng,956.5,11
+207,Cardguard,22.03.2008,Dębów,566.3,32
+208,Tin,16.04.2008,Marston,995.5,26
+209,Fix San,12.09.2008,Litvínov,546.8,28
+210,Andalax,04.08.2006,Guanhães,253.0,17
+211,Domainer,23.03.2008,Banjar Kajanan,175.6,6
+212,Lotstring,28.05.2008,Jammā‘īn,700.6,2
+213,Ronstring,08.11.2011,Nagahama,940.6,23
+214,Tres-Zap,12.09.2009,Mondlo,639.0,21
+215,Home Ing,10.06.2015,Gerong,784.5,42
+216,Mat Lam Tam,29.01.2010,Gorodishche,601.4,2
+217,Y-find,20.10.2010,Jincheng,105.9,5
+218,Kanlam,04.12.2016,Tupiza,142.3,43
+219,Cardify,16.02.2005,Duntou,213.3,19
+220,Gembucket,17.11.2008,Razan,310.6,2
+221,Tempsoft,16.01.2014,Shuangqiaoping,231.3,10
+222,It,13.01.2014,Xijiao,598.7,32
+223,Quo Lux,29.04.2011,Pushkino,805.6,2
+224,Viva,15.05.2012,Santiago do Cacém,28.3,50
+225,Toughjoyfax,21.04.2016,Nassarawa,793.1,42
+226,Fixflex,18.07.2013,Jardín,583.7,38
+227,Flexidy,29.03.2007,Sakai,186.7,30
+228,Otcom,12.05.2011,Rothesay Bay,856.2,42
+229,Duobam,30.07.2009,Thủ Thừa,630.5,2
+230,Zathin,30.09.2009,Corpus,390.2,19
+231,Daltfresh,22.01.2007,Longgang,562.8,45
+232,Bitchip,05.01.2008,Ust’-Kachka,218.1,48
+233,Prodder,23.03.2013,Budapest,175.5,17
+234,Job,13.04.2009,Pysznica,181.8,26
+235,Otcom,26.12.2016,Las Palmas,547.2,21
+236,Bamity,04.11.2008,Armash,734.3,39
+237,It,04.10.2013,Lazaro Cardenas,33.8,32
+238,Asoka,31.01.2007,Podbuzh,75.8,5
+239,Lotlux,01.12.2009,Mniszków,396.0,6
+240,Fixflex,16.08.2010,Pradera,572.7,36
+241,Latlux,11.04.2012,Limenária,869.8,36
+242,Subin,22.08.2016,Rokoy,95.4,10
+243,Latlux,10.09.2015,Schäffern,196.0,28
+244,Cookley,03.07.2016,Hecun,730.2,44
+245,Greenlam,28.09.2008,Blumbang,538.2,26
+246,Mat Lam Tam,19.10.2013,Xinqiaohe,61.3,8
+247,Y-Solowarm,21.05.2009,Sinargalih,493.2,49
+248,Wrapsafe,30.09.2005,Setúbal,237.7,17
+249,Prodder,24.12.2005,La Seyne-sur-Mer,836.5,18
+250,It,11.07.2010,Plessisville,115.9,22
+251,Holdlamis,08.02.2014,Maroanging,778.6,26
+252,Domainer,25.01.2014,Sambirejo,290.0,50
+253,Temp,08.09.2011,Jardim da Serra,223.4,26
+254,Konklab,18.08.2007,Patrocínio,922.8,46
+255,Kanlam,06.06.2016,Fuxi,572.2,49
+256,Rank,09.01.2010,Brzeźnica,609.9,23
+257,Temp,17.08.2015,Malata,614.9,49
+258,Gembucket,05.04.2015,Hangbu,325.1,41
+259,Tin,23.12.2016,Nicolet,708.4,21
+260,Prodder,03.09.2008,Yerevan,100.4,43
+261,Asoka,13.09.2011,Krzyżanów,785.0,30
+262,Veribet,17.08.2008,Mursaba,846.5,15
+263,Latlux,15.06.2008,Saltsjöbaden,668.8,12
+264,Hatity,26.02.2013,Laprida,866.9,9
+265,Domainer,28.07.2011,Muslyumovo,849.6,30
+266,Stim,18.01.2015,Trenggulunan,780.0,47
+267,Voltsillam,03.05.2012,Mozhga,817.0,47
+268,Tampflex,12.10.2014,Kamen’-na-Obi,331.1,22
+269,Opela,16.08.2013,Bayog,495.0,3
+270,Viva,04.09.2007,Vodňany,958.0,9
+271,Holdlamis,15.12.2014,Souto da Costa,206.8,19
+272,Otcom,29.10.2007,Usquil,401.5,41
+273,Ventosanzap,15.04.2016,Wanquan,331.9,33
+274,Overhold,23.05.2008,Toki,101.7,9
+275,Zamit,10.09.2013,Igpit,541.7,35
+276,Stim,15.05.2011,Kawasaki,249.3,22
+277,Holdlamis,17.01.2012,Sinamar,530.1,9
+278,Regrant,29.08.2007,Yanjiao,943.9,3
+279,Opela,02.06.2010,Sindangjati,650.9,21
+280,Stronghold,26.06.2015,Esperança,261.9,24
+281,Overhold,24.12.2010,Irati,9.5,44
+282,Greenlam,08.12.2009,Saldanha,296.6,10
+283,Treeflex,25.07.2013,Xiaolong,592.6,35
+284,Temp,24.01.2013,Sabanalarga,951.4,29
+285,Trippledex,20.08.2011,Fengniancun,614.0,17
+286,Stim,27.03.2005,Bembèrèkè,78.8,29
+287,Temp,12.08.2009,Cemplang,405.8,12
+288,Tampflex,18.08.2014,Muzhijie,996.2,27
+289,Solarbreeze,12.02.2010,Qaraçuxur,930.8,22
+290,Veribet,19.10.2009,Fukayachō,195.3,19
+291,Veribet,16.03.2014,Ujae,721.3,13
+292,Voyatouch,19.01.2008,Florence,933.8,26
+293,Stringtough,31.07.2007,Xinquansi,475.6,12
+294,Keylex,27.08.2016,Masaya,46.4,43
+295,Alpha,13.11.2012,Nalinggou,744.4,48
+296,Transcof,02.10.2005,Tiandu,478.3,32
+297,Greenlam,03.06.2008,Randuagung,100.8,10
+298,Alphazap,24.12.2013,Busan,384.4,3
+299,Latlux,02.09.2010,Rozwadza,828.1,8
+300,Ventosanzap,29.01.2006,Boa Esperança,98.9,22
+301,Voltsillam,10.02.2016,Tagana-an,183.1,13
+302,Tres-Zap,13.10.2014,Kokoshkino,540.5,34
+303,Fixflex,27.09.2013,Cambuí,868.4,36
+304,Ronstring,22.02.2006,Seattle,814.7,43
+305,Bytecard,23.09.2012,P’yŏngsŏng,498.3,1
+306,Voltsillam,21.09.2005,Drosiá,501.2,13
+307,Cookley,25.01.2016,La Rochelle,905.9,22
+308,Lotlux,24.05.2008,Sa Bot,499.5,21
+309,Latlux,19.12.2013,Stěbořice,955.3,8
+310,Cardify,22.04.2005,Shymkent,628.6,27
+311,Tampflex,10.12.2013,Wilków,742.4,35
+312,Toughjoyfax,15.01.2006,Arapongas,711.4,25
+313,Ventosanzap,22.09.2010,Kuala Lumpur,542.8,3
+314,Viva,13.03.2016,Beigang,395.1,7
+315,Domainer,27.11.2012,Mingshuihe,378.3,29
+316,Quo Lux,28.10.2012,Campo Maior,293.4,38
+317,Tin,16.02.2009,Sarnia,461.7,9
+318,Bamity,09.07.2012,Leubatang,203.4,48
+319,Sonair,26.03.2016,Anren Chengguanzhen,371.7,46
+320,Sonsing,12.01.2007,Ouro Branco,46.1,2
+321,Zontrax,06.08.2010,Senglea,141.9,30
+322,Treeflex,24.07.2006,Krajan Satu,870.0,8
+323,Domainer,15.08.2010,Charlotte,682.0,50
+324,Subin,26.06.2015,Kamenica,88.7,44
+325,It,07.07.2006,Orange Farm,286.1,32
+326,Greenlam,15.10.2007,Chocianów,178.5,38
+327,Zathin,03.07.2011,Simo Satu,576.0,22
+328,Lotlux,18.06.2011,Gachalá,921.8,25
+329,Redhold,03.03.2013,Gustavsberg,807.0,41
+330,Daltfresh,04.02.2012,Skövde,628.2,28
+331,Pannier,13.07.2007,Wanmu,569.3,4
+332,Home Ing,01.03.2013,Bitam,342.0,38
+333,Toughjoyfax,17.09.2005,Dongfeng,719.9,1
+334,Bigtax,05.03.2006,Bonik,233.5,31
+335,Voltsillam,22.05.2006,Andongwei,727.1,44
+336,Cookley,11.04.2012,Amieiro,37.5,5
+337,Namfix,19.08.2009,Krasni Okny,427.1,32
+338,Andalax,06.07.2006,Cihaur,44.4,26
+339,Y-find,29.10.2012,Dapaong,332.4,45
+340,Opela,02.08.2009,Smolensk,319.5,31
+341,Viva,10.01.2016,Spirovo,170.2,10
+342,Span,24.03.2012,Manwakh,878.2,30
+343,Ronstring,14.12.2005,Murici,252.2,47
+344,Zamit,01.09.2014,Namīn,796.8,27
+345,Subin,21.07.2006,Béreldange,320.9,35
+346,Bitwolf,07.11.2012,Qianhong,977.2,19
+347,Lotlux,13.06.2014,Majiadu,518.4,31
+348,Stronghold,30.07.2016,Boldumsaz,280.7,18
+349,Flexidy,17.05.2013,Vazhiny,117.9,43
+350,Biodex,03.08.2007,Karaundi,373.0,15
+351,Tres-Zap,31.08.2009,Saint-Avold,298.2,36
+352,Opela,23.06.2005,Baracatan,100.8,46
+353,Viva,30.08.2005,Santa Catalina,976.7,22
+354,Sonair,29.04.2015,Kotlyarevskaya,986.0,46
+355,Subin,11.04.2009,Artsvaberd,386.1,22
+356,Sonair,02.10.2012,Ipoh,960.0,39
+357,Cookley,25.12.2007,Zerok-Alakadari,811.4,41
+358,Toughjoyfax,22.09.2006,Estrada,90.9,18
+359,Bigtax,12.11.2007,Xiaochuan,335.1,30
+360,Daltfresh,12.12.2007,Guadalupe,157.5,24
+361,Gembucket,17.10.2008,Burqah,628.2,35
+362,Lotstring,28.01.2010,Silca,768.0,18
+363,Hatity,18.09.2009,Minanga Norte,445.4,29
+364,Sub-Ex,18.10.2014,Barra,941.7,42
+365,Ventosanzap,02.11.2014,Shuguang,396.9,49
+366,Quo Lux,04.03.2015,Pandangan Kulon,808.8,29
+367,Cookley,28.01.2008,Jingdu,644.5,13
+368,Stim,15.10.2006,Cimanggu,445.3,22
+369,Stim,02.12.2007,Ligonggang,547.4,21
+370,Y-find,10.01.2012,Antioquia,381.2,33
+371,Tres-Zap,25.10.2007,Emmaboda,907.8,35
+372,Tres-Zap,21.04.2007,Jiuhe,682.7,47
+373,Alphazap,06.06.2016,Provins,392.4,41
+374,Cardify,02.09.2010,Sacapulas,916.3,9
+375,Konklab,23.11.2005,Divichibazar,808.2,48
+376,Sonair,10.08.2016,Huanfeng,585.7,16
+377,Fixflex,31.08.2006,Hamakita,445.8,44
+378,Mat Lam Tam,08.06.2010,Garibaldi,925.4,47
+379,Alphazap,30.09.2010,Giawang,367.7,31
+380,Latlux,04.07.2006,Caqu,690.5,22
+381,Mat Lam Tam,04.08.2010,Kobayashi,825.0,22
+382,Temp,03.04.2006,Zhaowu,751.4,15
+383,Latlux,04.09.2008,Hongtang,422.5,24
+384,Viva,23.03.2015,Naukšēni,697.4,29
+385,Mat Lam Tam,17.01.2011,Carolina,430.0,25
+386,Bytecard,29.03.2006,Nishor,631.9,33
+387,Fintone,08.11.2015,Krajenka,908.2,25
+388,Duobam,01.09.2014,Sanjian,361.6,49
+389,Zamit,30.01.2009,Xiangjiazhai,554.3,33
+390,Tempsoft,27.11.2015,Donji Vakuf,18.9,35
+391,Fixflex,20.12.2011,Slavgorod,492.1,18
+392,Treeflex,17.12.2015,Xiangquan,679.1,20
+393,Y-find,27.05.2012,Medina Estates,974.5,32
+394,Namfix,17.10.2011,Paritjunus,394.9,41
+395,Duobam,27.04.2005,Nagaoka,745.5,38
+396,Voyatouch,27.04.2012,Meringkik,687.5,13
+397,Home Ing,21.03.2015,Starigrad,402.6,19
+398,Fixflex,12.12.2008,North Battleford,763.3,7
+399,Ronstring,04.04.2015,Guanba,669.6,10
+400,Regrant,10.01.2011,Yuwang,295.9,19
+401,Quo Lux,02.10.2008,Xiahong,312.1,18
+402,Transcof,08.03.2005,Hairag,14.2,32
+403,Zoolab,12.04.2011,Izobil’nyy,340.4,16
+404,Bamity,22.09.2009,Almaznyy,306.0,21
+405,Gembucket,31.10.2016,Shuangqiao,473.3,37
+406,Prodder,19.05.2014,Karangsari,508.5,28
+407,Keylex,22.12.2007,Nogoonnuur,347.1,8
+408,Andalax,24.05.2009,Orocuina,687.1,15
+409,Matsoft,13.01.2008,Saint Louis,284.0,35
+410,Bitwolf,02.10.2009,Sousse,171.9,28
+411,Hatity,05.10.2008,Blumenau,294.3,39
+412,Rank,29.05.2013,Ingeniero Guillermo N. Juárez,876.1,40
+413,Matsoft,08.08.2011,Caobi,126.4,30
+414,Job,07.07.2010,Muskegon,525.4,4
+415,Temp,20.04.2010,Abu Dhabi,800.3,9
+416,Span,03.06.2012,Haeju,218.1,9
+417,Greenlam,20.11.2011,Shuanglu,188.4,50
+418,It,02.06.2016,Achanizo,262.1,5
+419,Rank,09.12.2013,Tikiw,590.2,32
+420,Latlux,08.09.2012,Cikarang,399.9,30
+421,Tempsoft,26.12.2006,An Lão,36.5,33
+422,Tresom,05.04.2007,Norman Wells,778.1,7
+423,Lotlux,04.02.2014,Juupajoki,295.0,2
+424,Biodex,01.10.2007,Maubeuge,920.1,24
+425,Matsoft,10.11.2010,Sanchang,494.0,27
+426,Namfix,30.05.2007,Khao Yoi,587.6,11
+427,Latlux,10.10.2010,West Kelowna,493.3,37
+428,Alpha,27.04.2012,Kubangkondang,765.2,9
+429,Home Ing,26.11.2005,Jiujiang,805.0,49
+430,Zoolab,01.12.2011,Sabang,633.1,25
+431,Stringtough,02.03.2012,Vejprnice,961.0,5
+432,Otcom,02.08.2005,Lakki Marwat,496.9,11
+433,Sub-Ex,23.03.2009,Tres Isletas,376.0,27
+434,Viva,25.12.2012,Juegang,906.2,23
+435,Cookley,27.07.2013,Vadstena,679.7,23
+436,Tresom,11.01.2011,Bykhaw,414.5,23
+437,Ronstring,24.12.2014,Strabychovo,425.4,20
+438,Duobam,25.12.2007,Nikhom Phattana,673.3,35
+439,Zaam-Dox,03.03.2007,Privlaka,899.1,16
+440,Daltfresh,09.06.2015,Plérin,931.6,37
+441,Voyatouch,04.08.2015,Xinjiezi,562.4,49
+442,Wrapsafe,09.06.2009,Anchorage,767.8,31
+443,Ronstring,09.03.2006,Sukamanah,31.5,50
+444,Stim,27.10.2008,Alvarães,607.6,35
+445,It,03.01.2013,Tongjiang,651.0,13
+446,Tempsoft,26.04.2009,Ninomiya,443.6,47
+447,Sonair,23.04.2006,Saint Louis,143.0,32
+448,Vagram,31.03.2006,Siemkowice,380.6,38
+449,Keylex,09.09.2016,Igrim,38.6,17
+450,Zontrax,11.03.2013,Pisan,379.8,30
+451,Zoolab,22.02.2014,Jenggawah,675.3,23
+452,Span,18.09.2013,Al Manzilah,292.0,24
+453,Otcom,08.03.2014,Símantra,572.6,39
+454,Stim,29.11.2008,Ratoath,399.4,40
+455,Overhold,31.05.2005,Ambarakaraka,823.3,50
+456,Lotlux,31.07.2012,Penco,660.1,20
+457,Opela,11.07.2005,Murygino,292.6,20
+458,Tin,26.11.2007,Qukou,324.7,13
+459,Flowdesk,20.09.2008,Burgos,251.8,45
+460,Y-Solowarm,04.08.2012,Sabana Grande de Palenque,936.8,48
+461,Zaam-Dox,10.08.2010,San Martín,323.2,25
+462,Fix San,12.01.2016,Puutuga,677.9,1
+463,Tres-Zap,13.06.2011,Stockholm,876.2,12
+464,Matsoft,29.10.2006,Ciudad Barrios,848.6,21
+465,Cardguard,25.02.2006,Hà Tĩnh,440.3,30
+466,Viva,11.04.2016,Orimattila,79.2,2
+467,Treeflex,04.01.2014,Konstancin-Jeziorna,326.1,17
+468,Bitwolf,31.01.2010,Liangshan,31.6,27
+469,Prodder,28.12.2014,Rzeczenica,596.7,48
+470,Otcom,21.03.2009,Reykjanesbær,481.8,41
+471,Bamity,17.11.2015,Nikísiani,99.0,36
+472,Zamit,28.01.2013,Kaseda-shirakame,800.8,13
+473,Lotlux,26.06.2016,Cielądz,21.3,24
+474,Biodex,14.06.2016,Qingshan,331.0,14
+475,Rank,26.03.2009,Biankouma,462.7,22
+476,Alpha,27.07.2015,Kouvarás,293.1,26
+477,Transcof,23.06.2015,Vary,370.0,44
+478,Holdlamis,21.09.2016,Juru,201.5,15
+479,It,01.06.2009,Duiwelskloof,7.2,6
+480,Aerified,21.11.2009,Haiyan,441.2,9
+481,Fixflex,20.10.2014,Church End,907.7,23
+482,Prodder,17.06.2008,Baimajing,885.6,3
+483,Trippledex,30.06.2015,Stamford,774.5,6
+484,Konklux,09.08.2014,Néa Éfesos,699.0,38
+485,Flexidy,22.11.2016,Wiślica,108.1,49
+486,Lotstring,14.01.2006,Bardalah,780.4,34
+487,Bytecard,25.06.2007,Prado Siongco,701.2,7
+488,Zathin,26.10.2014,Bungur,345.9,11
+489,Temp,24.04.2006,Dashiju,627.5,16
+490,Tin,31.10.2006,Bhamdoûn el Mhatta,329.2,16
+491,Zaam-Dox,20.07.2008,Tadou,220.7,38
+492,Voyatouch,25.04.2012,Stockholm,407.3,50
+493,Stronghold,20.03.2010,Kobelyaky,422.2,35
+494,Lotlux,27.08.2009,Cachadinha,463.7,31
+495,Keylex,28.10.2016,Turus,77.0,16
+496,Zoolab,28.02.2015,Manhiça,281.9,30
+497,Viva,02.02.2012,Accha,258.3,17
+498,Biodex,17.04.2016,Jiulong,602.5,9
+499,Toughjoyfax,09.06.2006,Vale de Figueira,76.1,32
+500,Y-find,19.12.2007,Kletek,353.3,39
+501,Fintone,21.04.2009,Dongzhou,775.6,47
+502,Sonsing,10.02.2012,Innoshima,415.5,7
+503,Andalax,20.03.2011,Karbunara e Vogël,961.4,2
+504,Biodex,19.02.2009,Reno,630.3,10
+505,Toughjoyfax,19.12.2005,Cayenne,221.5,3
+506,Daltfresh,11.07.2007,Velykyy Klyuchiv,873.2,11
+507,Asoka,06.11.2005,Tarfaya,55.8,3
+508,Holdlamis,03.03.2015,Batuidu,561.8,2
+509,Aerified,15.06.2012,Kotido,660.0,38
+510,Zoolab,19.01.2007,Borovo,842.5,4
+511,It,20.10.2016,Chalu,853.7,34
+512,Home Ing,18.07.2016,Laoag,158.6,35
+513,Fix San,04.03.2008,Girardot,726.0,46
+514,Veribet,18.09.2010,Dzięgielów,447.5,37
+515,Sonair,18.09.2013,Ciego de Ávila,205.2,14
+516,Cardify,30.12.2008,Jianshe,747.6,39
+517,Ventosanzap,04.05.2010,Nzega,469.7,41
+518,Overhold,27.12.2011,Chigang,751.6,41
+519,Keylex,22.07.2008,Brades,631.6,41
+520,Bytecard,18.06.2016,Nezlobnaya,71.2,42
+521,Stim,10.02.2007,Sucun,23.2,10
+522,Bitchip,06.09.2007,Ivano-Frankove,51.2,39
+523,Overhold,09.04.2007,Qabqir,766.3,29
+524,It,02.04.2006,Evijärvi,137.6,30
+525,It,13.08.2015,Menggala,453.2,10
+526,Bamity,28.12.2005,Nova Venécia,26.7,36
+527,Greenlam,05.02.2013,Las Junturas,432.3,16
+528,Holdlamis,18.02.2008,Santo António,907.2,6
+529,Stronghold,24.02.2006,Sembungin,828.2,47
+530,Toughjoyfax,07.07.2010,La Viña,538.5,31
+531,Stringtough,11.12.2007,Gharavŭtí,471.8,14
+532,Flowdesk,31.01.2008,Butou,987.0,36
+533,Opela,21.06.2010,Xingdian,554.7,40
+534,Job,17.03.2013,Shreveport,872.8,24
+535,Andalax,20.07.2005,Turochak,319.5,27
+536,Bamity,16.06.2014,Götene,510.9,23
+537,Tampflex,18.03.2008,Örebro,852.3,50
+538,Lotstring,21.02.2016,Wuhao,803.1,7
+539,Alphazap,07.10.2005,Petro-Slavyanka,961.4,34
+540,Quo Lux,30.03.2015,Abobo,15.2,11
+541,Matsoft,06.05.2010,Krajan Gebangan,243.7,38
+542,Latlux,05.04.2007,Čair,553.6,28
+543,Cardify,12.08.2009,Sanhe,233.8,35
+544,Duobam,18.11.2007,Bagadó,399.6,30
+545,Daltfresh,15.09.2005,Pueblo,143.3,35
+546,Toughjoyfax,13.10.2008,Al Wardānīn,630.2,40
+547,Sub-Ex,14.11.2008,Yangsan,197.3,44
+548,Hatity,10.10.2006,San Matías,341.2,46
+549,Temp,25.04.2005,Monte Agudo,242.5,13
+550,Overhold,04.03.2005,Boulemane,889.7,21
+551,Prodder,27.08.2011,Barrouallie,503.0,46
+552,Flexidy,26.08.2006,Boca Chica,206.2,26
+553,Alpha,14.12.2015,Xinhua,513.8,8
+554,Solarbreeze,02.06.2010,Xinhua,625.3,13
+555,Bitchip,12.02.2015,Braunschweig,487.5,18
+556,Fix San,10.05.2012,Kunashak,501.7,34
+557,Asoka,06.01.2012,Pofadder,578.3,18
+558,Biodex,17.11.2009,Kuaro,271.0,19
+559,It,23.02.2015,Viseu,698.4,27
+560,Alphazap,06.10.2013,Tanshi,996.9,36
+561,Sonair,20.03.2015,Cikawunggading,932.2,49
+562,Sonsing,09.08.2008,Asikkala,234.1,33
+563,Viva,05.11.2011,Gŭlŭbovo,840.8,34
+564,Bytecard,10.12.2015,Sovetskaya,452.7,12
+565,Stringtough,29.05.2006,Bangxi,979.1,47
+566,Job,02.05.2016,Lameira,209.2,33
+567,Bitchip,28.07.2010,Urzhar,883.0,14
+568,Overhold,09.01.2009,"Hospitalet De Llobregat, L'",69.8,40
+569,Voltsillam,04.10.2008,Mengenkrajan,646.4,26
+570,Transcof,21.05.2007,Dengfang,212.6,18
+571,Pannier,13.10.2007,Uzlovaya,956.4,3
+572,Zamit,03.12.2007,La Roche-sur-Yon,719.3,43
+573,Fix San,23.12.2014,Kolomyagi,601.1,3
+574,Bitwolf,22.08.2006,Cilimus Kulon,99.0,50
+575,Aerified,02.07.2012,Tayug,915.4,24
+576,Andalax,28.11.2012,Telsiai,500.0,49
+577,Keylex,26.09.2013,Ngadipuro,148.5,44
+578,Bitchip,01.10.2016,Ouro Preto do Oeste,127.4,36
+579,Transcof,15.06.2005,Cikalaces,198.4,26
+580,Fix San,12.10.2013,Alemanguan,82.2,31
+581,Ronstring,17.10.2011,Smach Mean Chey,198.0,21
+582,Home Ing,26.10.2011,Uralets,617.4,33
+583,Tampflex,02.03.2008,Sarnia,972.0,42
+584,Cardguard,17.01.2012,Yuekou,810.5,22
+585,Duobam,01.11.2009,Mlowo,953.1,43
+586,Ventosanzap,29.05.2011,Bektemir,942.6,28
+587,Y-find,20.11.2014,Baffa,831.9,20
+588,Solarbreeze,05.05.2013,Bicesse,440.6,21
+589,Fix San,21.05.2015,Valmiera,647.1,46
+590,Konklab,21.09.2016,Sumberwaru,503.0,49
+591,Ventosanzap,01.04.2005,Matagbak,565.2,3
+592,Toughjoyfax,29.06.2009,Xinhua,81.2,19
+593,Viva,05.12.2012,Mēga,740.3,49
+594,Viva,08.07.2005,Rochester,751.2,13
+595,Konklux,15.03.2008,Zinat,725.6,18
+596,Lotstring,29.03.2012,Spétses,699.3,39
+597,Flexidy,28.07.2016,Machikou,979.7,4
+598,Sonair,25.02.2012,Guarumal,850.0,32
+599,Latlux,18.09.2016,Modot,221.7,33
+600,Tres-Zap,09.09.2005,Duque de Caxias,889.7,45
+601,Fixflex,05.10.2010,Tumpukrenteng,308.7,9
+602,Namfix,08.03.2008,Yalagüina,303.9,10
+603,Tres-Zap,11.07.2014,Góra,993.2,14
+604,Ventosanzap,09.04.2008,Changning,17.4,18
+605,Tresom,31.07.2013,Curuan,64.2,12
+606,Home Ing,28.10.2006,Íquira,599.7,4
+607,Tres-Zap,07.12.2012,Saubara,538.5,7
+608,Zontrax,15.09.2013,Moravče,601.4,49
+609,Span,21.05.2014,Słupno,199.4,23
+610,Lotstring,08.02.2013,Langensari,129.7,48
+611,It,09.11.2015,Chantal,907.9,3
+612,Konklux,22.06.2015,Limoeiro do Ajuru,36.4,3
+613,Keylex,24.03.2007,Deranitan,842.7,26
+614,Regrant,27.12.2010,Illapel,944.2,46
+615,Zontrax,31.12.2006,Bulgan,947.8,35
+616,Fix San,16.10.2013,Paiisa,826.9,33
+617,Zoolab,20.05.2015,Dadiya,51.9,45
+618,Vagram,21.11.2005,Likhobory,310.0,10
+619,Tresom,29.04.2014,Duzhenwan,751.6,9
+620,Rank,24.09.2006,Kratié,306.8,41
+621,It,24.03.2015,Guotan,189.7,9
+622,Greenlam,17.12.2005,Nizhneivkino,996.5,41
+623,Y-Solowarm,21.10.2005,Pereiros,223.0,10
+624,Voyatouch,28.09.2008,Shankill,697.3,9
+625,Stim,16.02.2008,Brotas,237.2,11
+626,It,04.10.2005,Jatimulyo,811.9,2
+627,Veribet,04.01.2009,Pataruman,214.6,47
+628,Flexidy,03.07.2013,Lianghe,98.2,10
+629,It,07.07.2011,Nianpan,284.6,14
+630,Trippledex,21.03.2007,Pasirhuni,575.3,28
+631,Y-Solowarm,23.06.2006,Shemursha,609.6,8
+632,Alpha,07.05.2012,Changsha,443.9,19
+633,Trippledex,17.11.2010,Anak,809.1,33
+634,Greenlam,09.04.2012,Matiao,445.6,27
+635,Kanlam,09.02.2012,Budapest,192.1,11
+636,Pannier,05.04.2015,Jönköping,942.1,22
+637,Asoka,16.05.2006,Huangbei,209.0,37
+638,Stim,02.12.2011,Blawi,934.4,29
+639,Tresom,23.07.2008,Praia da Barra,801.7,11
+640,Mat Lam Tam,24.03.2007,Lidun,801.2,30
+641,Temp,04.12.2011,Kudanding,896.0,17
+642,Andalax,31.05.2013,Seteluk Tengah,795.2,16
+643,Overhold,20.02.2016,Bobrov,530.2,8
+644,Voyatouch,05.10.2016,Esquina,915.7,2
+645,Fixflex,28.11.2010,Izyum,810.1,15
+646,Cookley,08.11.2010,Kota Trieng,123.1,37
+647,Fintone,21.07.2009,Fukuroi,697.2,12
+648,Bytecard,28.04.2011,Selydove,420.3,2
+649,Zaam-Dox,15.12.2014,Tongqing,582.5,25
+650,Aerified,12.06.2010,Patapan,68.4,40
+651,Stim,07.04.2013,Shkurinskaya,172.9,47
+652,Andalax,03.02.2012,Samobor,744.9,37
+653,Asoka,16.06.2011,Jiyang,191.2,2
+654,Quo Lux,06.10.2006,Aquiraz,422.3,14
+655,Zoolab,04.02.2005,Sungairaya,411.5,21
+656,Domainer,27.05.2010,Kyra,996.1,33
+657,Tempsoft,29.07.2010,Riga,876.0,14
+658,Temp,30.10.2009,Norak,696.1,37
+659,Zathin,30.01.2012,Henglin,753.8,50
+660,Flexidy,23.05.2016,Strání,922.2,37
+661,Cookley,15.12.2016,Karak City,518.0,30
+662,Overhold,29.06.2012,Pingxiang,999.2,43
+663,Ronstring,08.12.2013,Quivilla,889.4,20
+664,Fintone,28.08.2014,Jaciara,64.4,6
+665,Treeflex,06.10.2007,Prachin Buri,385.4,5
+666,Bytecard,22.01.2008,Zhigulevsk,823.4,20
+667,Stringtough,20.02.2006,Hujia,188.3,18
+668,Aerified,07.10.2011,Youcheng,533.1,21
+669,Treeflex,28.09.2013,Nassarawa,716.5,35
+670,Bitchip,29.05.2009,Stanišić,315.6,8
+671,Y-Solowarm,13.05.2005,San Miguel de Cauri,31.9,25
+672,Tampflex,28.12.2012,Tuanjie,131.1,10
+673,Fix San,30.09.2011,Sernovodsk,684.1,9
+674,Daltfresh,18.12.2011,Tojeira,27.9,10
+675,Cardguard,18.07.2010,Dafeng,375.2,38
+676,Namfix,12.08.2013,Zhongshu,134.1,15
+677,Mat Lam Tam,15.03.2010,Auki,886.4,35
+678,Lotlux,03.04.2006,Kadupinang,801.2,31
+679,Subin,05.06.2016,Stockholm,59.6,1
+680,Latlux,23.01.2015,Recreio,997.0,14
+681,Asoka,18.09.2012,Pidsandawan,145.1,33
+682,Alphazap,16.12.2015,Ban Phaeo,994.9,22
+683,Ronstring,16.10.2016,Konstantinovskoye,246.9,18
+684,Overhold,12.11.2015,Lubukalung,597.6,7
+685,Flexidy,06.12.2015,Waigete,404.1,42
+686,Stringtough,07.12.2012,Hankha,988.2,28
+687,Temp,28.05.2013,São Sepé,929.4,47
+688,Bamity,12.06.2010,Yaxi,195.8,34
+689,Mat Lam Tam,09.09.2013,Taiping,831.3,29
+690,Domainer,22.10.2013,Yuxi,943.3,15
+691,Prodder,20.01.2008,Limbuš,689.3,32
+692,Sonsing,24.02.2009,Rajapeni,301.9,6
+693,Alpha,26.01.2014,Yarīm,208.0,50
+694,Home Ing,16.08.2008,Padaimut,436.0,42
+695,Job,17.04.2011,Izumi,457.1,47
+696,Biodex,15.11.2009,Asahi,964.8,44
+697,Rank,26.07.2008,Bamenda,615.3,29
+698,It,25.10.2006,Phu Kam Yao,698.1,49
+699,Ronstring,18.05.2010,Vittoriosa,344.5,30
+700,Tresom,25.10.2013,Puerto Natales,149.6,17
+701,Sonair,09.08.2012,Nagoselo do Douro,790.0,4
+702,Lotstring,30.03.2009,Ilebo,333.4,17
+703,Veribet,18.12.2005,Shiraz,761.6,46
+704,Sub-Ex,21.02.2012,Lamduan,551.9,37
+705,Veribet,14.08.2010,Sacramento,965.6,11
+706,Tin,20.09.2010,Chiantla,114.0,43
+707,Zoolab,02.09.2016,Kebonan,900.8,26
+708,Subin,30.05.2010,Plataran,483.5,26
+709,Stronghold,24.08.2008,Aguisan,533.9,46
+710,Andalax,11.11.2008,Örebro,393.3,28
+711,Bytecard,25.04.2010,Qinhong,856.1,8
+712,Stronghold,29.06.2016,Komaki,234.4,38
+713,Toughjoyfax,23.10.2012,Aluminé,267.9,35
+714,Konklux,21.03.2016,Belos Ares,631.8,7
+715,Span,14.12.2006,Nanganga,327.7,50
+716,Redhold,29.08.2013,Čelopek,657.4,2
+717,Veribet,01.01.2013,Yabuli,790.6,2
+718,Latlux,13.01.2005,Rychvald,636.8,28
+719,Regrant,07.03.2006,Lela,195.2,5
+720,Duobam,19.10.2012,Situbondo,265.0,4
+721,Daltfresh,24.01.2008,Maojiagang,616.5,24
+722,Duobam,07.04.2015,Yihe,496.0,25
+723,Home Ing,19.06.2009,Gugark’,21.5,9
+724,Veribet,02.01.2012,Muesanaik,382.7,44
+725,Voyatouch,02.01.2010,Bečmen,945.6,7
+726,Lotlux,07.04.2012,Markovo,516.0,15
+727,Biodex,07.12.2011,Libu,222.8,3
+728,Stronghold,09.01.2012,Oklahoma City,704.8,20
+729,Duobam,16.11.2015,Tirana,515.8,24
+730,Job,09.07.2010,Basicao Coastal,717.4,27
+731,Solarbreeze,16.05.2008,Pecatu,928.2,40
+732,Stim,09.02.2014,Vilnius,165.1,27
+733,Tempsoft,20.11.2012,Mao’ershan,54.8,9
+734,Konklab,11.10.2009,Moses,683.6,48
+735,Opela,23.02.2010,Duqu,688.8,26
+736,Holdlamis,03.11.2011,Viengxay,606.7,26
+737,Pannier,24.03.2013,Ichinomiya,409.0,35
+738,Viva,15.07.2007,Bayan Huxu,62.3,35
+739,Vagram,10.10.2010,Jiangcheng,841.1,32
+740,Kanlam,12.04.2005,Brumado,590.8,3
+741,Fixflex,29.05.2016,Dzüünharaa,722.1,5
+742,Fixflex,15.08.2005,Sîr ed Danniyé,431.2,24
+743,Sonsing,09.06.2013,Shatian,522.1,33
+744,Stronghold,08.10.2012,Tukan,837.3,34
+745,Tin,18.12.2016,Catalina,735.6,25
+746,Zoolab,30.09.2013,Patrol,54.2,23
+747,Bamity,23.05.2011,Abū Qalqal,486.5,8
+748,Temp,26.06.2012,Argotirto Krajan,483.7,27
+749,Flexidy,11.07.2013,Longzui,626.1,15
+750,Temp,06.07.2015,Moste,453.8,4
+751,Home Ing,30.05.2010,Chirpan,262.4,4
+752,Bamity,09.12.2014,Umeå,594.7,3
+753,Stronghold,17.01.2012,Wupu,949.2,22
+754,Asoka,23.10.2007,Passagem,660.6,33
+755,Voltsillam,19.12.2006,Dagushan,819.2,44
+756,Cardguard,13.02.2010,Sidzina,253.3,33
+757,Matsoft,30.10.2011,Yaypan,256.4,7
+758,Latlux,25.06.2011,San Sebastian,100.7,47
+759,Voyatouch,14.07.2007,Makueni,691.2,21
+760,Bitwolf,07.09.2008,Emplak,586.7,17
+761,Redhold,03.06.2007,Malasila,891.4,6
+762,Lotlux,28.12.2008,Diriá,527.6,10
+763,Zoolab,29.09.2016,Amherstburg,30.3,26
+764,Voyatouch,25.08.2011,Fort Abbās,920.7,29
+765,Bitchip,25.10.2011,Talshand,54.4,18
+766,Bamity,24.06.2011,Orocuina,344.4,43
+767,Lotstring,25.04.2006,Zhovti Vody,941.8,4
+768,Subin,05.04.2014,Bratslav,576.0,44
+769,Job,30.07.2007,Laizhou,632.3,22
+770,Bitwolf,25.01.2007,Klembivka,323.2,49
+771,Vagram,20.11.2008,Shuhe,545.9,34
+772,Bytecard,01.03.2012,Tambopata,230.6,19
+773,Tin,05.09.2015,Avignon,851.2,27
+774,Veribet,08.07.2015,Winneba,117.4,33
+775,Stringtough,20.02.2009,Viana,796.1,46
+776,Bigtax,16.04.2006,Tuqiao,511.0,46
+777,Y-find,02.10.2005,Kawengan,901.4,37
+778,Fintone,10.12.2010,Vilhelmina,299.0,4
+779,Latlux,31.07.2012,Bayt ‘Ūr at Taḩtā,549.1,4
+780,Daltfresh,09.05.2010,Mauá,772.1,39
+781,Lotstring,15.04.2015,Pitai,665.3,38
+782,Quo Lux,29.09.2014,Uruobo-Okija,909.3,33
+783,Transcof,08.08.2006,Thị Trấn Tam Điệp,588.3,50
+784,Tresom,07.11.2014,Novyy Svit,9.5,23
+785,Treeflex,13.04.2007,Ivry-sur-Seine,691.8,23
+786,Aerified,22.11.2005,Zhengguo,897.0,40
+787,Bitchip,08.12.2006,San Francisco,731.7,4
+788,Y-Solowarm,28.07.2005,Jinshan,946.8,44
+789,Biodex,18.04.2008,Pánormos,236.3,22
+790,Span,11.08.2014,Maqiu,772.2,8
+791,Latlux,04.06.2016,Pasarnangka,282.8,7
+792,Zathin,21.01.2014,Pingfeng,651.6,34
+793,Konklab,13.09.2014,General Roca,383.1,33
+794,Konklab,01.01.2007,Lisia Góra,210.2,24
+795,Matsoft,20.04.2013,Pomiechówek,618.1,7
+796,Ronstring,26.05.2010,Heby,75.7,37
+797,Toughjoyfax,21.10.2007,Sūq al Khamīs,71.8,42
+798,Biodex,11.10.2011,Jiyizhuang,262.3,4
+799,Lotlux,17.02.2015,Nglengkong,38.1,32
+800,Solarbreeze,27.04.2016,Donduşeni,671.3,28
+801,Sub-Ex,09.12.2006,Normandin,766.1,20
+802,Bigtax,03.06.2015,Guling,219.1,7
+803,Gembucket,16.09.2009,Nässjö,775.4,5
+804,Duobam,21.12.2014,Shuangxing,864.4,12
+805,Cookley,24.04.2006,Winterthur,279.7,26
+806,Bytecard,27.09.2014,Jutaí,886.1,13
+807,Zontrax,26.04.2013,Vandœuvre-lès-Nancy,899.1,26
+808,Bytecard,18.05.2011,Santa María de Caparo,650.2,30
+809,Home Ing,24.10.2014,Jeleuk,68.4,31
+810,Wrapsafe,29.11.2015,La Libertad,726.4,33
+811,Bigtax,31.05.2011,Guiwu,925.4,1
+812,Trippledex,29.08.2005,Mori,282.6,30
+813,Daltfresh,16.09.2015,Diriomo,604.8,17
+814,Lotstring,09.03.2009,Curumaní,918.7,11
+815,Toughjoyfax,06.08.2014,Paombong,453.0,48
+816,Span,18.05.2009,Sablé-sur-Sarthe,252.3,46
+817,Zaam-Dox,05.11.2015,Vancouver,253.3,21
+818,Trippledex,19.07.2010,Paris La Défense,256.1,47
+819,Latlux,27.07.2011,Dong’an,293.5,11
+820,Y-find,15.12.2010,Santo Niño,542.1,19
+821,Stim,26.08.2013,Piran,108.6,49
+822,Voyatouch,12.11.2010,Loncoche,793.7,49
+823,Zontrax,05.10.2013,Dolní Libina,588.4,4
+824,Toughjoyfax,15.08.2006,Masis,174.8,34
+825,Zathin,26.01.2010,Gaoqiao,953.8,46
+826,Veribet,03.06.2009,Emiliano Zapata,333.0,3
+827,Konklux,27.01.2012,Seixo da Beira,983.9,40
+828,Fintone,29.11.2010,La Loma,303.1,27
+829,Stringtough,12.06.2015,Mionica,245.2,12
+830,Cookley,27.05.2006,Kirovgrad,534.3,40
+831,Zathin,12.07.2009,Nnewi,770.1,6
+832,Wrapsafe,24.05.2005,Niwiska,458.1,16
+833,Bitchip,22.04.2008,Estância,717.6,14
+834,Ronstring,21.11.2010,Barili,169.5,1
+835,Regrant,21.01.2010,Fort Wayne,41.3,22
+836,Viva,06.09.2006,Sukamaju,443.4,35
+837,Toughjoyfax,19.05.2016,Belomorsk,259.6,43
+838,Stronghold,08.06.2012,Estreito,546.3,43
+839,Voyatouch,04.11.2010,Gubengairlangga,281.3,34
+840,Trippledex,05.08.2012,Ondores,34.7,1
+841,Tampflex,23.04.2006,Bilovods'k,114.6,44
+842,Bitchip,25.03.2012,Breu,786.7,1
+843,Konklux,26.09.2009,Kankara,363.3,23
+844,Viva,25.12.2007,El Hamma,132.8,50
+845,Bigtax,15.04.2013,Ikryanoye,813.6,47
+846,Cardguard,05.06.2012,Portland,756.8,31
+847,Holdlamis,26.03.2006,Cabo,179.1,48
+848,Bamity,21.04.2012,Viñales,115.9,38
+849,Y-Solowarm,15.01.2010,Los Cerrillos,103.3,2
+850,Cardify,01.12.2016,Lebane,395.4,25
+851,Alphazap,10.07.2005,Emmaboda,318.3,18
+852,Voyatouch,06.10.2010,Jinbi,406.1,37
+853,Voltsillam,29.05.2008,Tianshan,32.1,26
+854,Temp,09.02.2016,Bijelo Polje,297.0,19
+855,Gembucket,16.12.2009,Butel,208.4,1
+856,Stim,18.02.2012,Naghalin,131.7,13
+857,Aerified,21.11.2014,Jiudian,692.6,28
+858,Mat Lam Tam,27.09.2012,Laoqiao,130.9,38
+859,Redhold,11.02.2009,Hefei,408.0,36
+860,Stim,10.08.2016,Lelekovice,762.7,39
+861,Cardify,19.04.2010,Kaltungo,633.5,16
+862,Bytecard,10.11.2006,Kafr ad Dawwār,732.7,5
+863,Zoolab,16.07.2016,Iberia,573.7,21
+864,Cookley,26.11.2010,Banjar Kertasari,231.6,36
+865,Span,19.03.2005,Laliki,150.8,33
+866,Sonair,10.08.2006,San Antonio,363.4,20
+867,Konklux,13.07.2012,Constance,727.1,42
+868,Wrapsafe,17.08.2010,Campraksanta,729.5,30
+869,Sub-Ex,28.07.2010,Várzeas,809.1,49
+870,Lotstring,23.12.2010,Odoyev,476.8,15
+871,Holdlamis,18.05.2008,Praia Grande,657.6,17
+872,Veribet,21.12.2008,Lakota,908.1,27
+873,Voyatouch,13.10.2016,Fonte Boa dos Nabos,87.0,47
+874,Konklab,20.04.2007,Sabanalarga,876.1,27
+875,Fix San,15.11.2016,Guane,795.2,33
+876,Cardify,09.05.2015,Svetogorsk,607.1,36
+877,Y-find,24.10.2005,Qili,622.3,49
+878,Span,08.11.2012,Dengnan,26.6,32
+879,Y-find,19.08.2014,Yanahuanca,449.7,24
+880,Y-Solowarm,26.01.2007,Ngori,689.8,46
+881,Zontrax,10.07.2011,Sājūr,635.4,35
+882,Toughjoyfax,15.03.2016,Naguanagua,4.7,30
+883,Treeflex,02.06.2007,Limushan,786.2,31
+884,Stringtough,03.08.2014,Nanjing,384.7,27
+885,Stronghold,05.05.2005,Jiuxian,127.8,34
+886,Alpha,05.09.2005,Muang Phôn-Hông,102.6,21
+887,Cardguard,12.11.2005,Severnyy,634.2,8
+888,Konklux,22.07.2011,Al Fākhūrah,432.7,35
+889,Stronghold,10.04.2008,Yuhe,475.5,37
+890,Mat Lam Tam,05.10.2015,Gaofeng,268.8,32
+891,Span,27.09.2013,Tofa,921.8,22
+892,Viva,30.05.2014,Karangsonojabon,835.9,28
+893,Trippledex,03.09.2013,Nggalak,992.5,9
+894,Zontrax,13.11.2016,Lachute,669.2,2
+895,Quo Lux,22.07.2013,Vónitsa,455.1,47
+896,Ronstring,09.02.2005,Weishan,326.0,29
+897,Zathin,13.09.2011,Bol’shoy Kamen’,867.2,7
+898,Ventosanzap,19.04.2016,Krajan Winong,413.0,28
+899,Pannier,21.06.2014,Simeykyne,639.1,41
+900,Vagram,26.05.2009,Klole,934.5,12
+901,Alphazap,31.07.2010,Krasnotorka,148.8,23
+902,Sub-Ex,26.04.2005,Nanyuki,511.7,24
+903,Redhold,24.06.2014,Pontes,641.8,28
+904,Cardguard,12.03.2011,Kezileboyi,423.4,21
+905,Temp,09.10.2013,Lixi,613.0,15
+906,Keylex,06.02.2006,Tangxia,866.4,8
+907,Span,08.08.2010,Cipanas,400.1,29
+908,Kanlam,23.08.2007,Zigong,666.0,50
+909,Ronstring,21.12.2007,Urzhar,627.6,27
+910,Toughjoyfax,04.02.2016,São Mamede de Infesta,372.4,39
+911,Cardguard,16.03.2009,Ternovka,543.3,29
+912,Domainer,06.10.2014,Shibajiazi,488.6,11
+913,Sonair,04.02.2005,Perpignan,433.0,8
+914,Konklux,24.10.2014,Oslob,775.8,37
+915,Bigtax,29.05.2005,Ilmajoki,723.7,15
+916,Tres-Zap,19.01.2012,Jinzhuang,240.8,31
+917,Vagram,18.09.2010,Frösön,568.9,25
+918,Cookley,19.09.2015,San Isidro,831.9,29
+919,Prodder,08.04.2007,Kosava,953.9,16
+920,Viva,16.06.2013,Kaga Bandoro,563.6,7
+921,Voyatouch,20.09.2005,Querecotillo,909.8,16
+922,Bitwolf,15.08.2014,San Antonio Aguas Calientes,660.5,31
+923,Tin,09.03.2010,Raša,639.8,29
+924,Sub-Ex,08.04.2014,Chaniá,500.4,14
+925,Zathin,09.01.2009,Steinkjer,265.2,2
+926,Keylex,16.09.2015,San Vicente,94.0,36
+927,Tresom,21.12.2007,San Jacinto,308.8,8
+928,Job,19.05.2015,Hermosa,470.9,11
+929,Sonair,06.10.2007,Satrejan,16.4,10
+930,Hatity,08.06.2012,Gemena,736.2,41
+931,Wrapsafe,21.11.2012,Lukou,18.3,26
+932,Tresom,26.01.2005,Krasae Sin,252.2,31
+933,Voyatouch,26.05.2013,Puerto Esperanza,92.2,48
+934,Ventosanzap,13.02.2008,San Francisco,591.2,3
+935,Matsoft,11.08.2013,Bangkok,714.9,31
+936,Quo Lux,28.12.2005,Dubrovka,332.2,4
+937,Biodex,20.08.2011,Aghavnadzor,642.1,41
+938,Job,12.03.2016,Gaoqiao,408.1,22
+939,Solarbreeze,25.11.2008,Gunungputri,865.8,14
+940,Tempsoft,16.08.2012,Dawan,145.2,29
+941,Transcof,22.05.2013,Alegre,578.9,45
+942,Job,07.03.2009,Yongning,962.3,22
+943,Bitchip,16.09.2007,Vila Velha de Ródão,794.1,37
+944,Duobam,19.03.2009,Nowy Duninów,855.4,38
+945,Tresom,15.03.2005,Francisco I Madero,148.9,15
+946,Vagram,09.09.2012,Valky,778.2,2
+947,Stringtough,06.05.2010,Shalqīya,274.4,26
+948,Span,22.12.2007,Kirkland Lake,344.9,35
+949,Bigtax,08.07.2015,Ostrowite,68.9,3
+950,Konklux,01.04.2006,Jiaoziya,672.9,23
+951,Andalax,24.09.2006,Moate,450.5,23
+952,Trippledex,26.02.2016,Perosinho,869.0,3
+953,Y-find,21.02.2010,Chadian,911.5,8
+954,Greenlam,03.12.2013,Goranboy,201.3,45
+955,Sonsing,21.08.2015,Bandarbeyla,552.9,25
+956,Bamity,07.05.2016,Diamantino,424.5,36
+957,Subin,03.05.2015,Magepanda,994.5,28
+958,Home Ing,11.01.2016,Voskopojë,36.9,22
+959,Subin,30.07.2012,Leskolovo,218.3,43
+960,Asoka,15.08.2007,Savannah,257.9,38
+961,Redhold,04.07.2015,Petrovskaya,972.4,49
+962,Zamit,15.07.2016,Kebonsari,412.8,1
+963,Fix San,14.11.2016,Kotabaru,733.2,18
+964,Sonair,24.09.2013,Shangma,558.5,8
+965,Bitchip,25.08.2013,San Fernando de Atabapo,24.3,41
+966,Flexidy,13.11.2005,Pajé,6.4,1
+967,Tresom,05.04.2010,Sztum,803.3,41
+968,Y-find,01.11.2007,Krajan Satu,101.7,18
+969,Regrant,29.05.2010,Qiaotou,954.7,6
+970,Ventosanzap,29.08.2011,Minneapolis,99.5,15
+971,Cardguard,13.12.2010,Kvitok,510.0,36
+972,It,15.02.2010,Hurghada,515.3,3
+973,Opela,12.06.2005,Simeykyne,808.4,45
+974,Stringtough,03.05.2016,Toluviejo,55.1,1
+975,Redhold,20.12.2005,Banjar Jagasatru,18.0,11
+976,Bitwolf,10.01.2007,Tanggung,332.5,38
+977,Rank,21.12.2007,Herong,438.0,10
+978,Tin,22.09.2005,Noginsk,471.2,45
+979,Treeflex,27.12.2008,Kasulu,269.8,3
+980,Home Ing,14.07.2014,Kuripan,660.6,40
+981,Zathin,27.02.2016,Dubăsari,451.6,48
+982,Tempsoft,06.10.2007,Ayamaru,476.1,36
+983,Regrant,26.11.2011,Chelyabinsk,915.0,28
+984,Biodex,13.09.2008,Xinchenglu,568.9,12
+985,Pannier,27.07.2006,Şaydnāyā,914.1,11
+986,Lotlux,23.11.2009,Kíti,463.9,9
+987,Holdlamis,07.02.2011,Carmo do Cajuru,492.6,16
+988,Sub-Ex,24.07.2010,Marabá,943.4,1
+989,Cardguard,02.08.2007,Argenteuil,582.2,46
+990,Voltsillam,18.05.2011,Al Khawkhah,976.1,9
+991,Gembucket,23.01.2013,Asikkala,702.6,47
+992,Mat Lam Tam,01.08.2015,Ayapel,10.6,46
+993,Fix San,04.07.2006,Arauá,279.2,18
+994,Tres-Zap,26.05.2012,Hodkovice nad Mohelkou,606.5,48
+995,Prodder,02.11.2006,Gaotai,247.5,10
+996,Cookley,06.04.2016,Teruel,193.0,38
+997,Cardify,13.02.2009,Venda Nova,527.1,29
+998,Latlux,22.06.2013,Sokolovyy,191.2,14
+999,Tampflex,04.08.2008,Châu Thành,495.3,50
+1000,Y-Solowarm,22.01.2015,Muararupit,701.8,2
