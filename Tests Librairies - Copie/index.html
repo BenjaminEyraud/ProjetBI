@@ -378,7 +378,8 @@ data.forEach(function(p) {
         var monthlyMoveGroup = moveMonths.group().reduceSum(function (d) {
             return d.Montant;
         });
-       /* var indexAvgByMonthGroup = moveMonths.group().reduce(
+        
+       var indexAvgByMonthGroup = moveMonths.group().reduce(
                 function (p, v) {
                     ++p.days;
                     p.total += (+v.Montant) ;
@@ -394,7 +395,7 @@ data.forEach(function(p) {
                 function () {
                     return {days: 0, total: 0, avg: 0};
                 }
-        );*/
+        );
         moveChart.width(600)
                 .height(300)
                 .transitionDuration(1000)
@@ -410,25 +411,25 @@ data.forEach(function(p) {
                 .legend(dc.legend().x(70).y(10).itemHeight(13).gap(5))
                 .brushOn(false)
                 .compose([
-                 /*   dc.lineChart(moveChart)
+                 dc.lineChart(moveChart)
                             .group(indexAvgByMonthGroup, "Monthly Index Average")
                             .valueAccessor(function (d) {
                                 return d.value.avg;
-                            }),*/
+                            }),
                     dc.lineChart(moveChart)
                             .group(monthlyMoveGroup, "Monthly Index Move")
-                            .valueAccessor(function (d) {
-                                return d.value;//Math.sqrt(d.value);
+                            .reduceSum(function (d) {
+                                return Math.sqrt(d.value);
                             })
-                           /* .title(function (d) {
+                            .title(function (d) {
                                 var value = d.value.avg ? d.value.avg : d.value;
                                 if (isNaN(value)) value = 0;
                                 return dateFormat(d.key) + "\n" + numberFormat(value);
-                            })*/
+                            })
                             .ordinalColors(["orange"])
-                            //.useRightYAxis(true)
+                            .useRightYAxis(true)
                 ])
-                //.yAxisLabel("Monthly Index Average")
+                .yAxisLabel("Monthly Index Average")
                 .rightYAxisLabel("Monthly Index Move")
                 .renderHorizontalGridLines(true);
         dc.renderAll();
