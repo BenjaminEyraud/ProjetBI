@@ -23,6 +23,9 @@
 
     <!-- Morris Charts CSS -->
     <link href="vendor/morrisjs/morris.css" rel="stylesheet">
+	
+	<!-- Custom CSS -->
+	<link href="css/style.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -162,50 +165,72 @@
             </div>
             <!-- /.row -->
             <div class="row">
-                
+               
+
+<div class="col-lg-6">			   
+			<div class="panel panel-green">
+                        <div class="panel-heading">
+                            Fonctionnalités opérationnelles
+                        </div>
+                        <div class="panel-body">
+                            <p>
+							<ul>
+							<li>Chargements des données dans la base</li>
+							<li>Création Dashboard</li>
+							<li>Connexion à la base de donnée</li>
+							<li>Tests requêtes sur la base</li>
+							</ul>
+							</p>
+                        </div>
+            </div>
+</div>			
+			
+			<div class="col-lg-6">
 				
+					<div class="panel panel-yellow">
+                        <div class="panel-heading">
+                            Problèmes rencontrés
+                        </div>
+                        <div class="panel-body">
+                             <p>
+							<ul>
+							<li>Talend ne gère pas les caractères spéciaux dans les noms des colonnes : les jointures ne fonctionnaient pas à cause de ce problème.
+							<br/>Solution de contournement : Remplacement des "-", "<" et "." par des "_"</li>
+							<li>
+							Impossible de faire un SELECT * sur la base de donnée ou une jointure avec la table "biomes" car il y a trop de données.
+							</li>
+							</ul>
+							</p>
+                        </div>
+                    </div>
+			</div>
 				
-				Ajouter les actions a faire et les problèmes ici
-				
-<?php
-/*try
-{
-	// On se connecte à MySQL
-	$bdd = new PDO('mysql:host=localhost;dbname=tara_data;charset=utf8', 'root', '');
-}
-catch(Exception $e)
-{
-	// En cas d'erreur, on affiche un message et on arrête tout
-        die('Erreur : '.$e->getMessage());
-}
-*/
-// Si tout va bien, on peut continuer
 
-// On récupère tout le contenu de la table jeux_video
-//$reponse = $bdd->query("SELECT DISTINCT ENV FROM tara_data NATURAL JOIN biomes'");
-
-// On affiche chaque entrée une à une
-
-//$reponse->execute();
-
-//$JSON = json_encode($reponse->fetchAll(PDO::FETCH_ASSOC));
-
-//$JSON = SQLtoJSON($reponse);
-
-//echo $JSON;
-
-//$reponse->closeCursor(); // Termine le traitement de la requête
-
-
-echo requete("SELECT COUNT(*) FROM tara_data");
-
-
-
-?>
 				
             </div>
             <!-- /.row -->
+			
+			
             <div class="row">
+			
+			
+			<div class="col-lg-6">
+				
+					<div class="panel panel-default">
+                        <div class="panel-heading">
+                            Tests de requêtes
+                        </div>
+                        <div class="panel-body">
+                             <p>
+							 
+							 <?php echo "Nombre de station_identifier différents :" . requete("SELECT COUNT(DISTINCT station_identifier) FROM tara_data"); ?>
+							 
+							</p>
+                        </div>
+                    </div>
+			</div>
+				
+			
                 <div class="col-lg-8">
                     <div class="panel panel-default">
                         <div class="panel-heading">
